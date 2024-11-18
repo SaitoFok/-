@@ -1,3 +1,5 @@
+基于llama3的微调模型，可准确预测文本难度。需配合meta-llama-3___1-8b-instruct使用，sft还差adapter_model.safetensors未上传，需联系作者。
+
 ---
 base_model: /root/autodl-tmp/llm-research/meta-llama-3___1-8b-instruct
 library_name: peft
